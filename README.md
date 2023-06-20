@@ -1,10 +1,10 @@
 # JavaScript
-
-<div>
- First-Web  // Use Basic EventListener 
+### First-Web 
+- Basic EventListener 
   
- Second-Web // Use EventHandler
+### Second-Web 
+- EventHandler
  
- Third-Web  // Use LocalStorage
+### Third-Web  
+- LocalStorage
 
-</div>
