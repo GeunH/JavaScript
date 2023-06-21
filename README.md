@@ -11,6 +11,6 @@
 - LocalStorage
 
 ### Fourth-Web  
-- Random Number Gam
+- Random Number Game
 - event, math, preventDefault
 - https://codesandbox.io/s/empty-blueprint-forked-qfcfx4?file=/src/index.js
